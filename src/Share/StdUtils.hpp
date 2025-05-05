@@ -22,6 +22,8 @@
 #include <unistd.h>
 #endif
 
+#define _CRT_SECURE_NO_WARNINGS
+
 //////////////////////////////////////////////////////////////////////////
 //std线程类
 typedef std::thread StdThread;
